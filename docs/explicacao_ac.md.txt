@@ -1,0 +1,6 @@
+# Explicação dos Dashboards - TCC Power BI
+
+## AC1 – Visão Geral
+- Objetivo: Apresentar os principais indicadores da loja, como vendas totais, lucro e quantidade de produtos vendidos, e analisar as vendas por categoria.
+- Gráficos principais: Gráficos de colunas ou outros visuais adequados.
+- Filtros: Ano, trimestre ou categoria.
