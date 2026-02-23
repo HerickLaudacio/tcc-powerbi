@@ -1,6 +1,6 @@
-# tcc-powerbi
+# Software Product: Analysis, Specification, Project & Implementation 
 
-TCC Power BI - Análise de vendas usando Superstore Dataset
+Projeto Power BI - Análise de vendas usando Superstore Dataset
 
 
 
