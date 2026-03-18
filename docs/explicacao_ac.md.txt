@@ -4,3 +4,29 @@
 - Objetivo: Apresentar as vendas da loja por categoria, destacando quais categorias geram mais receita.
 - Gráficos principais: Gráfico de barras clusterizado mostrando (vendas totais por categoria).
 - Filtros (opcional): Ano, trimestre ou categoria.
+
+
+## AC2 - Análise de Vendas por State
+- Objetivo: Analisar a distribuição das vendas por estado, identificando regiões com maior volume de faturamento.
+
+- Gráficos principais: Mapa geográfico e gráfico de barras com ranking de vendas por estado.
+
+- Filtros: Segmentação de dados por região.
+
+
+## AC3 - Análise de Vendas por City
+- Objetivo: Identificar as cidades com maior volume de vendas, destacando os principais centros de receita.
+
+- Gráficos principais: Gráfico de barras com Top N cidades.
+
+- Filtros: Filtro Top N e drill-down de estado para cidade.
+
+
+## AC4 - Análise de Ganhos e Perdas por Região
+- Objetivo: Avaliar o desempenho financeiro das regiões com base no lucro, identificando ganhos e prejuízos.
+
+- Gráficos principais: Gráfico waterfall (cascata) mostrando lucro por região.
+
+- Indicadores: Cartão com lucro total.
+
+- Filtros: Segmentação por região (opcional).
